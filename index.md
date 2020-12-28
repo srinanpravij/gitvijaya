@@ -1,8 +1,8 @@
 <h1> Vijayalakshmi Kuppuswamy</h1>
 <h2>Software Developer & DevOps Engineer</h2>
 <h4>Email: vijaya81kp@gmail.com</h4>
-__________________________________________________________________________________________________________________________________________
-<h2> **SKILLS**</h2>
+
+<h2> ** SKILLS **</h2>
         -Operating systems: Windows, UNIX, DOS
         -Languages: C&C++, Java, Python, Shellscripting
         -Operating System: Microsoft Windows, Linux 
@@ -13,8 +13,8 @@ ________________________________________________________________________________
         -Web Concepts & Tools: XML, YAML, HTML, JavaScript, Struts, Hibernate, Spring, Ajax, Perl
         -Software Testing Tools: Quick Test Professional, Quality Center
         -Spoken Languages: English, Hindi, Tamil, Telugu and Kannada
-__________________________________________________________________________________________________________________________________________
-<h2>**EXPERINCE**
+
+<h2>**EXPERINCE** </h2>
         <h3>** Per Scholas - Cambridge, MA ** </h3>      
                 Fulltime DevOps Trainee at Per Scholas- 14+ weeks of intensive and comprehensive hands-on technical training
                 in DevOps technologies and tools. Focusing towards,
@@ -26,7 +26,7 @@ ________________________________________________________________________________
             -	Deploying static content website with Docker containers and Kubernetes
             -	Understanding of critical DevOps technologies like Github, Jenkins, Ansible, Chef,Puppet, and Terraform
 
-    <h3>** Société Générale (SG) - Bangalore, India** </h3>
+       <h3>** Société Générale (SG) - Bangalore, India** </h3>
                         Fulltime Software Engineer in Société Générale, a European bank with its IT development located in Bangalore, India. 
                 -	About three years of development experience as part of BDR (Bases de Donnees) client referential data team.
                         Objective of team was to develop projects to know and identify clients in-order to satisfy regulatory requirements, 
@@ -44,8 +44,8 @@ ________________________________________________________________________________
                 -	Production bug issues and enhancements.
                 -	Involved in post development warranty maintenance and project documentation
 
-__________________________________________________________________________________________________________________________________________
-<h2> **EDUCATION**</h2?
+
+<h2> **EDUCATION**</h2>
 
     <h3> **Bachelor of Information Science and Engineering at Sri Venkateshwara College of Engineering,
      Visvesvaraya Technological University, Karnataka, India – 2002 to 2006 **</h3>
@@ -55,7 +55,7 @@ ________________________________________________________________________________
             design of algorithms
         -	Graduation project - Project IP Messenger for Satyam Computer Service Limited
         -	Developed an intranet-based client server chat application using VC++, utilizing key networking concepts
-__________________________________________________________________________________________________________________________________________
+
 <h2>**ACTIVITY AND HONORS**</h2>
         -	Have great passion towards communication, creative-writing.
         -	Enjoy health, fitness, meditation and spiritual activities.
@@ -64,5 +64,4 @@ ________________________________________________________________________________
         -	Have been the IT-Secretary for 3 years in the college.
         -	Have been part of the editor’s team for the college and company’s magazine. 
         -	Former member of Toastmasters International.
-__________________________________________________________________________________________________________________________________________
  
