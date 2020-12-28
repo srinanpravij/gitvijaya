@@ -2,7 +2,7 @@
 <h2>Software Developer & DevOps Engineer</h2>
 <h4>Email: vijaya81kp@gmail.com</h4>
 __________________________________________________________________________________________________________________________________________
-#h2 ***SKILLS***
+<h2> **SKILLS**</h2>
         -Operating systems: Windows, UNIX, DOS
         -Languages: C&C++, Java, Python, Shellscripting
         -Operating System: Microsoft Windows, Linux 
@@ -14,9 +14,10 @@ ________________________________________________________________________________
         -Software Testing Tools: Quick Test Professional, Quality Center
         -Spoken Languages: English, Hindi, Tamil, Telugu and Kannada
 __________________________________________________________________________________________________________________________________________
-#h2 ***EXPERINCE***
-    #h3 Per Scholas - Cambridge, MA        
-        Fulltime DevOps Trainee at Per Scholas- 14+ weeks of intensive and comprehensive hands-on technical training in DevOps technologies and tools. Focusing towards,
+<h2>**EXPERINCE**
+        <h3>** Per Scholas - Cambridge, MA ** </h3>      
+                Fulltime DevOps Trainee at Per Scholas- 14+ weeks of intensive and comprehensive hands-on technical training
+                in DevOps technologies and tools. Focusing towards,
             -	Hands-on experience maintaining application infrastructure through deployment, provisioning, configuration
                 management and monitoring
             -	Utilizing cloud technologies for DevOps, Strengthening knowledge of cloud basics, virtualization, and container
@@ -25,9 +26,11 @@ ________________________________________________________________________________
             -	Deploying static content website with Docker containers and Kubernetes
             -	Understanding of critical DevOps technologies like Github, Jenkins, Ansible, Chef,Puppet, and Terraform
 
-    #h3 Société Générale (SG) - Bangalore, India 
-            Fulltime Software Engineer in Société Générale, a European bank with its IT development located in Bangalore, India. 
-                -	About three years of development experience as part of BDR (Bases de Donnees) client referential data team. Objective of team was to develop projects to know and identify clients in-order to satisfy regulatory requirements, meet operational needs and ensure a high quality of services.
+    <h3>** Société Générale (SG) - Bangalore, India** </h3>
+                        Fulltime Software Engineer in Société Générale, a European bank with its IT development located in Bangalore, India. 
+                -	About three years of development experience as part of BDR (Bases de Donnees) client referential data team.
+                        Objective of team was to develop projects to know and identify clients in-order to satisfy regulatory requirements, 
+                        meet operational needs and ensure a high quality of services.
 
                 -	Played pivotal delivery roles in two major Web development projects as part of BDR team
                 -	BDR Web – that allows user to create, view and maintain user access rights and manage third party data 
@@ -42,10 +45,10 @@ ________________________________________________________________________________
                 -	Involved in post development warranty maintenance and project documentation
 
 __________________________________________________________________________________________________________________________________________
-#h2 ***EDUCATION***
+<h2> **EDUCATION**</h2?
 
-    #h3 Bachelor of Information Science and Engineering at Sri Venkateshwara College of Engineering,
-     Visvesvaraya Technological University, Karnataka, India – 2002 to 2006
+    <h3> **Bachelor of Information Science and Engineering at Sri Venkateshwara College of Engineering,
+     Visvesvaraya Technological University, Karnataka, India – 2002 to 2006 **</h3>
         -	Curriculum includes 
         -	Theories, standards, methods of various different domains like mathematics, science and information theory 
         -	Concepts like data communications, operating systems, DBMS, data structures, software engineering, testing,
@@ -53,7 +56,7 @@ ________________________________________________________________________________
         -	Graduation project - Project IP Messenger for Satyam Computer Service Limited
         -	Developed an intranet-based client server chat application using VC++, utilizing key networking concepts
 __________________________________________________________________________________________________________________________________________
-#h2 ***ACTIVITY AND HONORS***
+<h2>**ACTIVITY AND HONORS**</h2>
         -	Have great passion towards communication, creative-writing.
         -	Enjoy health, fitness, meditation and spiritual activities.
         -	Won creative writing award.
